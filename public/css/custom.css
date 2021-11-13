@@ -1,0 +1,321 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+html,body{
+ height: 100%;
+ background-color: #0A1D37;
+}
+
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #0A1D37;
+}
+.form{
+    padding-top: 10px;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.
+
+/*
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Josefin', sans-serif;
+
+}
+
+body{
+    background: #ffff;
+}
+
+.logo  {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.wrapper{
+    display: flex;
+    position: relative;
+}
+.wrapper .sidebar{
+    position: relative;
+    width: 100px;
+    top: 50%;
+    height: 400px;
+    background: #1C212D;
+    border-radius: 0px 40px 40px 0px;
+}
+
+.wrapper .sidebar ul li {
+    position: relative;
+    color: #ffff;
+    display: block;
+    padding-left: 22px;
+    margin-top: 92px;
+}
+
+.wrapper .sidebar ul li a{
+    color   : #ffff;
+    display : block;
+}
+
+.bi{
+    width: 25px;
+}
+
+
+.icon{
+    color: aliceblue;
+}
+
+
+.content{
+    position: relative;
+   width: 50%;
+   background-color: cadetblue;
+
+
+}
+
+.card{
+    top: 50%;
+    position: absolute;
+
+}
+
+.cards .card{
+
+
+    border-radius: 20px;
+    width: calc(100% / 3);
+    height: 100px;
+    text-align: center;
+}
+
+.card.card1{
+    background-color: #CCB129;
+}
+.card h1{
+    display: inline-block;
+    font-size: 25px;
+    color: white;
+
+
+}
+
+.search {
+    width: 100%;
+    margin-bottom: auto;
+    margin-top: 20px;
+    height: 50px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px
+}
+
+.search-input {
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    margin-top: 5px;
+    caret-color: transparent;
+    line-height: 20px;
+    transition: width 0.4s linear
+} */
+/*
+.head{
+
+
+    padding-top: 60px;
+    size: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+.bk{
+    overflow: visible !important;
+}
+
+.mt-10{
+    margin-top: 40px !important;
+}
+
+.mw-10{
+    width: 10%;
+    max-width: 100px;
+    height: 400px;
+    margin-top: 150px;
+    border-radius: 0px 20px 20px 0px !important;
+}
+
+.ic{
+    margin-top: 70px !important;
+}
+
+.card{
+    border-radius: 20px !important;
+    text-align: center !important;
+}
+
+.card1{
+
+    background-color: #F05454 !important;
+}.card2{
+
+    background-color: #184D47 !important;
+}.card3{
+
+    background-color: #CCB129 !important;
+}.card-text{
+    text-align: center;
+    color: aliceblue;
+    size: 20px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+
+/*
+.height {
+    height: 20vh
+}
+
+.search {
+    position: relative;
+
+}
+
+.search input {
+    height: 40px;
+    text-indent: 10px;
+    border: 2px solid #d6d4d4
+}
+
+.search input:focus {
+    box-shadow: none;
+    border: 2px solid blue
+}
+
+.search .fa-search {
+    position: absolute;
+    top: 20px;
+    left: 16px
+}
+
+.search button {
+    position: absolute;
+    top: 15px;
+    right: -150px;
+    height: 30px;
+    width: 80px;
+    background: blue
+} */
+
+
+
+
+
+ */
+
+
+ .tb{
+    overflow-y: auto;
+}
+
+.txt{
+    font-size: 20px;
+}
+
+
+     hr{
+    margin-left: 0;
+    text-align: left;
+    justify-content: left;
+    height: 5px;
+    width:100px;
+    background-color:gray;
+    border-radius: 5px;
+    text-align: left;
+
+    margin-top: -2px;
+}
+
+
+
+.btn-btn{
+   border: none;
+   margin-top: -15px;
+   cursor: pointer;
+   background: none;
+}
+
+.edit-ic{
+    display:inline;
+}
+
+
+.ttl{
+    margin-left: -14px;
+}
+
+.table-data{
+
+}
+
+.tal th,td{
+    white-space: nowrap ;
+}
+
+#materi-content{
+    overflow-y: scroll;
+    height: 65vh;
+
+}
+
+
+th.dt-center, td.dt-center { text-align: center; }
+
+
+
+
+@media (max-width: 768px) {
+    .txt{
+        font-size: 15px;
+    }
+
+    .heads{
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+    hr{
+        margin-left: 30px;
+    }
+
+    .dataTables_info{
+        padding-top: .85rem;
+
+    }
+
+    .dataTables_info, .dataTables_length{
+        float: left!important;
+    }
+    .dataTables_paginate, .dataTables_filter{
+        float:right!important;
+    }
+
+
+
+}
+
+

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="303" height="248" viewBox="0 0 303 248">
+  <g id="Group_1" data-name="Group 1" transform="translate(-654 -455)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(715.2 455)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+        <path id="Path_10" data-name="Path 10" d="M255.812,60.588A60.6,60.6,0,0,1,166.83,114.1a47.576,47.576,0,1,0,25.057-90.575c-.385-.045-.774-.085-1.159-.116A11.793,11.793,0,0,1,190.3.2c.984-.081,1.982-.134,2.98-.166.644,0,1.293-.031,1.942-.031a60.584,60.584,0,0,1,60.588,60.592Z" transform="translate(-92.184 0)" fill="#f05454"/>
+        <circle id="Ellipse_2" data-name="Ellipse 2" cx="12.394" cy="12.394" r="12.394" transform="translate(168.282 40.601)" fill="#070d59"/>
+        <path id="Path_11" data-name="Path 11" d="M65.8,128.463a60.6,60.6,0,0,0,88.982,53.532A47.576,47.576,0,1,1,129.726,91.42c.385-.045.774-.085,1.159-.116a11.8,11.8,0,0,0,.447-23.227c-.984-.081-1.982-.139-2.98-.166-.644,0-1.293-.031-1.942-.031A60.583,60.583,0,0,0,65.8,128.463Z" transform="translate(-36.359 -37.508)" fill="#070d59"/>
+        <circle id="Ellipse_3" data-name="Ellipse 3" cx="12.394" cy="12.394" r="12.394" transform="translate(0 70.968)" fill="#f05454"/>
+      </g>
+    </g>
+    <text id="SIMPEL_DIGITAL" data-name="SIMPEL DESA" transform="translate(654 694)" fill="#070d59" font-size="36" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">SIMPEL </tspan><tspan y="0" fill="#f05454">DESA</tspan></text>
+  </g>
+</svg>

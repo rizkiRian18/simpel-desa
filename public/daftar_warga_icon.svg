@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="68" viewBox="0 0 57 68">
+  <g id="Group_147" data-name="Group 147" transform="translate(-4751 -1787)">
+    <circle id="Ellipse_24" data-name="Ellipse 24" cx="27" cy="27" r="27" transform="translate(4751 1787)" fill="#064e6d"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(4749 1796.333)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(2)">
+        <rect id="Rectangle_95" data-name="Rectangle 95" width="54.543" height="34.667" rx="4" fill="#6a2c70"/>
+        <path id="Path_51" data-name="Path 51" d="M4.46,36.654V25.1A4.528,4.528,0,0,1,8.988,20.57h8.587A4.528,4.528,0,0,1,22.1,25.1V36.654" transform="translate(-1.239 -5.714)" fill="#b83b5e"/>
+        <circle id="Ellipse_21" data-name="Ellipse 21" cx="4.933" cy="4.933" r="4.933" transform="translate(7.02 4.564)" fill="#f08a5d"/>
+        <rect id="Rectangle_96" data-name="Rectangle 96" width="24.782" height="3.633" rx="1.816" transform="translate(23.718 10.963)" fill="#f4f4f4"/>
+        <rect id="Rectangle_97" data-name="Rectangle 97" width="24.782" height="3.633" rx="1.816" transform="translate(23.718 17.709)" fill="#f4f4f4"/>
+        <rect id="Rectangle_98" data-name="Rectangle 98" width="24.782" height="3.633" rx="1.816" transform="translate(23.718 24.455)" fill="#f4f4f4"/>
+      </g>
+    </g>
+    <text id="Daftar_Warga" data-name="Daftar Warga" transform="translate(4754 1853)" fill="#070d59" font-size="8" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">Daftar Warga</tspan></text>
+  </g>
+</svg>

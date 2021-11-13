@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="103.185" viewBox="0 0 102 103.185">
+  <g id="Group_1" data-name="Group 1" transform="translate(-698 -106.815)">
+    <text id="Simpel" transform="translate(698 206)" fill="#070d59" font-size="15" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Simpel</tspan></text>
+    <text id="Desa" transform="translate(760 206)" fill="#ee3d3d" font-size="15" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Desa</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M2872.426,1730.826a29.006,29.006,0,1,1,15.271-55.965c1.828.394,1.6,2.137,0,2a22.668,22.668,0,0,0-14.624,41.425c3.656,2.447,9.14,3.628,7.762,8.859-.731,2.756-3.965,4.837-8.409,3.656Z" transform="translate(-2130.207 -1567)" fill="#171a47" fill-rule="evenodd"/>
+    <path id="Path_2" data-name="Path 2" d="M2796.08,3742.267a5.653,5.653,0,1,0-5.062-6.187A5.65,5.65,0,0,0,2796.08,3742.267Z" transform="translate(-2072 -3566.32)" fill="#ee3d3d" fill-rule="evenodd"/>
+    <path id="Path_3" data-name="Path 3" d="M4557.08,1954.267a5.653,5.653,0,1,0-5.062-6.187A5.649,5.649,0,0,0,4557.08,1954.267Z" transform="translate(-3783.476 -1828.604)" fill="#171a47" fill-rule="evenodd"/>
+    <path id="Path_4" data-name="Path 4" d="M3569.76,2379.29a29.006,29.006,0,1,1-15.271,55.965c-1.828-.394-1.6-2.137,0-2a22.668,22.668,0,0,0,14.624-41.426c-3.656-2.447-9.14-3.628-7.762-8.859.731-2.756,3.965-4.837,8.409-3.656Z" transform="translate(-2812.776 -2252.334)" fill="#ee3d3d" fill-rule="evenodd"/>
+  </g>
+</svg>
