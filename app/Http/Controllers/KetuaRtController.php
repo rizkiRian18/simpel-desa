@@ -9,12 +9,13 @@ use Validator;
 use App\OrderSurat;
 use App\BeritaAcara;
 use Illuminate\Http\Request;
+use Illuminate\Support\Carbon;
+
 use App\Http\Requests\RtRequest;
 
 use Illuminate\Support\Facades\DB;
 
 use App\Http\Requests\LoginRequest;
-
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Config;
@@ -318,6 +319,10 @@ class KetuaRtController extends Controller
             $store_berita->judul_berita =$request->input('judul_berita');
             $store_berita->keterangan_berita = $request->input('keterangan_berita');
             $store_berita->lampiran_berita = $lampiran_berita;
+            $store_berita->created_at = Carbon::now();
+            $store_berita->updated_at = Carbon::now();
+
+
 
 
 
@@ -378,6 +383,9 @@ class KetuaRtController extends Controller
             $data->judul_berita = $request->input('judul_berita');
             $data->keterangan_berita = $request->input('keterangan_berita');
             $data->lampiran_berita = $lampiran_berita;
+            $data->updated_at = Carbon::now();
+
+
 
             $data->save();
             if ($data) {

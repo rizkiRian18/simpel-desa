@@ -8,6 +8,7 @@ use App\Warga;
 use App\Rt;
 use App\BeritaAcara;
 use App\Http\Requests\BeritaAcaraRequest;
+use Carbon\Carbon;
 use Validator;
 
 class BeritaAcaraController extends Controller
@@ -45,7 +46,7 @@ class BeritaAcaraController extends Controller
             $store_berita->judul_berita =$request->input('judul_berita');
             $store_berita->keterangan_berita = $request->input('keterangan_berita');
             $store_berita->lampiran_berita = $lampiran_berita;
-
+            $store_berita->created_at = Carbon::now();
 
 
             $store_berita->save();
